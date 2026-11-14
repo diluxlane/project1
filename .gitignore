@@ -1,0 +1,49 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+.yarn/install-state.gz
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+Thumbs.db
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# local env files
+.env*.local
+.env
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# raw uploaded source assets (the app uses the processed copies in /public)
+/*.mp4
+/*.webp
+/image *.jpg
+/image *.png
+/image *.webp
+/5cee*.jpg
+/5fb3*.mp4
+/c99a*.jpg
+/Man's_coat*.mp4
+/New folder/

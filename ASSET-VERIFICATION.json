@@ -1,0 +1,145 @@
+[
+  {
+    "file": "public/images/bloom.jpg",
+    "bytes": 337800,
+    "sha256": "8358a6a1de29e49abe6ef6756da53ef26734a84e30a2bc2adfa61801ec57bef7",
+    "dimensions": [
+      1280,
+      680
+    ]
+  },
+  {
+    "file": "public/images/g-blooms.jpg",
+    "bytes": 213777,
+    "sha256": "6c97ff39d1d698c9b96761289160e2dba4432f99fe9f736f7e72a6e4c71b3e98",
+    "dimensions": [
+      736,
+      1064
+    ]
+  },
+  {
+    "file": "public/images/g-branch.jpg",
+    "bytes": 157970,
+    "sha256": "05ed0c63d95daa51bf5ea2ffcefb2a71f73e5bd7f4fc2f8cba6de1fecfd2540a",
+    "dimensions": [
+      1125,
+      2000
+    ]
+  },
+  {
+    "file": "public/images/g-drift.jpg",
+    "bytes": 149130,
+    "sha256": "cce68b76cf591a9ae0d00e5634d5cdee819224443882ee8dbbec9f810cc53684",
+    "dimensions": [
+      1200,
+      1499
+    ]
+  },
+  {
+    "file": "public/images/g-haze.jpg",
+    "bytes": 119683,
+    "sha256": "83afaebb5c2975eed68bb733a3d2675c202554bda3486b208ae68d5fe078c96b",
+    "dimensions": [
+      768,
+      1020
+    ]
+  },
+  {
+    "file": "public/images/g-wind.jpg",
+    "bytes": 302134,
+    "sha256": "e154577e7103c27e0e8c98b746331ca9567d719171849833cd6111e846e224e9",
+    "dimensions": [
+      1080,
+      1350
+    ]
+  },
+  {
+    "file": "public/images/hand.jpg",
+    "bytes": 258209,
+    "sha256": "c575a8e000d27becf4ff07fb55b53bf49e0f78679f035d59fe70f9a20f453620",
+    "dimensions": [
+      928,
+      1232
+    ]
+  },
+  {
+    "file": "public/images/invitation.jpg",
+    "bytes": 126240,
+    "sha256": "a32437b27c738b104d4f314b65474fb08393e83bc17607d6436152062a3bb209",
+    "dimensions": [
+      736,
+      977
+    ]
+  },
+  {
+    "file": "public/images/meadow.jpg",
+    "bytes": 192670,
+    "sha256": "aed6071881e8500b6ac90c6d2f5430f081a44fc9d23ac340c5aaa537f5cf5e6a",
+    "dimensions": [
+      736,
+      1314
+    ]
+  },
+  {
+    "file": "public/images/swirl.jpg",
+    "bytes": 190277,
+    "sha256": "9652155dc263002d4a84797362a2301cf448b996c2442540b2f317054c4240e6",
+    "dimensions": [
+      1280,
+      720
+    ]
+  },
+  {
+    "file": "public/images/wander.jpg",
+    "bytes": 199992,
+    "sha256": "8b34184a93225291c44cd457e0f9ff01e7865b8772f1473586d5565f036af6fc",
+    "dimensions": [
+      1280,
+      720
+    ]
+  },
+  {
+    "file": "public/videos/footer.mp4",
+    "bytes": 8077301,
+    "sha256": "cedd5026461a86b2144eeb42239dc02ec073fbdcbcf3bd6864bed87b0b4bd541",
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "codec_name": "aac"
+        }
+      ],
+      "format": {
+        "duration": "8.000000"
+      }
+    }
+  },
+  {
+    "file": "public/videos/hero-coat.mp4",
+    "bytes": 1453401,
+    "sha256": "0462a555479d2108254610b5f8fc22c3ce3cfe73b4bf1ced6e0686cbcdbb61d2",
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "codec_name": "aac"
+        }
+      ],
+      "format": {
+        "duration": "6.016000"
+      }
+    }
+  }
+]

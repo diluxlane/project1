@@ -1,0 +1,14 @@
+# Netlify configuration for the RÊVERIE Next.js site.
+# Netlify auto-installs the Next.js Runtime (@netlify/plugin-nextjs) when it
+# detects Next.js; it is declared here explicitly so the build is deterministic
+# and no manual settings are needed in the Netlify UI.
+
+[build]
+  command = "npm run build"
+  publish = ".next"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
